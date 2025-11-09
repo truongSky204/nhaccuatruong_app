@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807987523880",
+    "project_id": "mobie-app-music",
+    "storage_bucket": "mobie-app-music.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807987523880:android:98877a3ac220c9006ea01d",
+        "android_client_info": {
+          "package_name": "com.example.nhaccuatruong_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBhYeT0DRiA-iIH_J_ew4wwr0y250rucA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
