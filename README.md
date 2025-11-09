@@ -1,5 +1,10 @@
+Nhóm 19
+Lê Xuân Trường
+2224801030263
+Lê Minh Trường
+2224801030263
 # nhaccuatruong_app
-“Nhạc của Trường” là một ứng dụng nghe nhạc cá nhân được phát triển bằng Flutter với mục tiêu mang lại trải nghiệm nghe nhạc đơn giản, nhẹ, thân thiện và dễ tùy chỉnh. Ứng dụng này được thiết kế để người dùng có thể nghe nhạc trực tuyến hoặc phát từ thư viện cá nhân, đồng thời tạo playlist yêu thích riêng.
+“Nhạc của Trường” là một ứng dụng nghe nhạc cá nhân của nhóm 19 được phát triển bằng Flutter với mục tiêu mang lại trải nghiệm nghe nhạc đơn giản, nhẹ, thân thiện và dễ tùy chỉnh. Ứng dụng này được thiết kế để người dùng có thể nghe nhạc trực tuyến hoặc phát từ thư viện cá nhân, đồng thời tạo playlist yêu thích riêng.
 
 Về mặt kỹ thuật, dự án sử dụng Flutter SDK (ngôn ngữ Dart) kết hợp với thư viện http để xử lý dữ liệu nhạc từ server hoặc API, đồng thời tận dụng rootBundle để quản lý các tệp dữ liệu cục bộ. Phần UI được xây dựng theo phong cách Material Design, tối ưu cho cả giao diện điện thoại và máy tính bảng. Ngoài ra, ứng dụng còn sử dụng AudioPlayer Manager để điều khiển phát nhạc (play/pause, next/previous), giúp người dùng thao tác dễ dàng.
 
